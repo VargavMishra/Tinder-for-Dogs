@@ -1,1 +1,1 @@
-# Tinder-for-Dogs
+Designed and deployed a fully responsive Bootstrap-based website with a structured pricing facility, reusable components, and clean UI/UX. Implemented mobile-first responsiveness and hosted the project using GitHub Pages.
